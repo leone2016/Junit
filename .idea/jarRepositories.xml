@@ -7,29 +7,14 @@
       <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="omni-fif" />
-      <option name="name" value="Repositorio FIF" />
-      <option name="url" value="https://artifactory.fif.tech/artifactory/omni" />
-    </remote-repository>
-    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="repo-falabella" />
-      <option name="name" value="Repositorio Artifactory Falabella" />
-      <option name="url" value="https://artifactory.fif.tech/artifactory/list/technisys-libs" />
-    </remote-repository>
-    <remote-repository>
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="repo-fif" />
-      <option name="name" value="Repositorio FIF" />
-      <option name="url" value="https://artifactory.fif.tech/artifactory/fif-common" />
     </remote-repository>
   </component>
 </project>
